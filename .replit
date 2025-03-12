@@ -3,4 +3,4 @@ run = "python flaskapp.py"
 channel = "stable-24_05"
 
 [deployment]
-run = ["sh", "-c", "pythonapp.py"]
+run = ["sh", "-c", "python flaskapp.py"]
